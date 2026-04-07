@@ -1,6 +1,5 @@
 # ADSO_3275760_PRIMER_TRIMESTRE2026
 https://github.com/angelgarzon032-commits/proyecto_final-python/blob/main/ejercicio_en_python11_py.ipynb
-
 1.Clase Padre
 2.clase Empleados
 3.Clase Mujer
@@ -24,5 +23,3 @@ https://github.com/angelgarzon032-commits/proyecto_final-python/blob/main/ejerci
 21.Clase Movibles
 22.Clase Vendedor
 23.Mostrar Inventario
-
-
