@@ -1,4 +1,4 @@
-https://github.com/mosquerakevinsantiago/Kevin_santiago_mosquera_perea
+https://github.com/mosquerakevinsantiago/Kevin_santiago_mosquera_perea/blob/main/ejercicio_en_python11_py.ipynb
 
 EJERCICIO 1 Padre
 
