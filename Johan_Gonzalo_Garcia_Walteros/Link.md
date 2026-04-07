@@ -1,6 +1,4 @@
 URL. [LINK DE LOS CODIGOS "HAZ CLICL AQUI"](https://github.com/GonzaloG146/TRABAJOS_JUAN)
-Aquí tienes la lista en formato de texto plano, ideal para copiar y pegar sin formatos especiales:
-
 1.Ambientes.py
 2.aprendiz.py
 3.avion
