@@ -1,0 +1,15 @@
+https://github.com/agj313829-crypto/Ejercicios_python_finales
+https://github.com/agj313829-crypto/Ejercicios_python_finales/blob/main/Automovilclase04_02_2026.ipynb
+https://github.com/agj313829-crypto/Ejercicios_python_finales/blob/main/claseVehiculoJuan2_03_2026.ipynb
+https://github.com/agj313829-crypto/Ejercicios_python_finales/blob/main/claseLibro2Juan09_02_2026.ipynb
+https://github.com/agj313829-crypto/Ejercicios_python_finales/blob/main/claseEmpleadoJuan09_03_2026.ipynb
+https://github.com/agj313829-crypto/Ejercicios_python_finales/blob/main/claseLibro312_02_2026.ipynb
+https://github.com/agj313829-crypto/Ejercicios_python_finales/blob/main/claseClientesAppend19_03_2026juan.ipynb
+https://github.com/agj313829-crypto/Ejercicios_python_finales/blob/main/claseAbstractadejuan12_03_2026.ipynb
+https://github.com/agj313829-crypto/Ejercicios_python_finales/blob/main/claseVehiculopadrejuan16_02_2026.ipynb
+https://github.com/agj313829-crypto/Ejercicios_python_finales/blob/main/claseGenerarReportejuan16_03_2026.ipynb
+https://github.com/agj313829-crypto/Ejercicios_python_finales/blob/main/claseFerreteriajuan26_03_2026.ipynb
+https://github.com/agj313829-crypto/Ejercicios_python_finales/blob/main/claseOperacionprofejuan05_03_2026.ipynb
+https://github.com/agj313829-crypto/Ejercicios_python_finales/blob/main/claseclassPadreprofejuan23_02_2026.ipynb
+https://github.com/agj313829-crypto/Ejercicios_python_finales/blob/main/claseDataclasesjuan26_02_2026.ipynb
+https://github.com/agj313829-crypto/Ejercicios_python_finales/blob/main/ProfeJUANTRABAJO1Y2.ipynb
