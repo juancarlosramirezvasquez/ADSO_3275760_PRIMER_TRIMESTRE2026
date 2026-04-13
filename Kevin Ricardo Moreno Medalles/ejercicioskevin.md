@@ -1,0 +1,33 @@
+ejercicios link: https://github.com/kevmorenome/Ejercicios_Juan
+
+1. Libro.py
+2. Listas.py
+3. Super.py
+4. ambiente.py
+5. animales.py
+6. aprendiz.py
+7. calculoarea.py
+8. clientes.py
+9. diagrama.py
+10. ejercicio.py
+11. ejercicios.py
+12. empleado.py
+13. empleados.py
+14. herencia.py
+15. herenciaempleado.py
+16. herenciavehiculo.py
+17. inventario.py
+18. listaaprendiz.py
+19. listaprendas.py
+20. mueble.py
+21. objetos.py
+22. operacion1.py
+23. operacion2.PY
+24. padreclase.py
+25. pagos.py
+26. reporte.py
+27. salario.py
+28. tareaempleado.py
+29. tareavendedor.py
+30. vehiculos.py
+31. zoologico.py
